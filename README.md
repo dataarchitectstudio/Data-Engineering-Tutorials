@@ -59,7 +59,7 @@ Excel in Azure Databricks and Apache Spark for Big Data in the cloud:
 
 1. [Azure Data Engineers Roadmap(youtube)](https://youtu.be/L3LY57BSgTk)
 2. [AI Data Engineers Roadmap(youtube)](https://youtu.be/4EvmBI5O_wg)
-
+3. [Apache Spark PerformanceTuning (youtube)](https://www.youtube.com/playlist?list=PLp8qtTIke0EWuaQm3vZMwQgxflC6NBU8y)
 ---
 
 ## 🙌 Community & Support
